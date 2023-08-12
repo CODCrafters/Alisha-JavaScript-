@@ -1,0 +1,15 @@
+// Click  (onclick)
+// Double Click    (ondblclick)
+// Right Click     (oncontextmenu)
+// Mouse Hover     (onmouseenter)
+// Mouse Up        (onmouseout)
+// Mouse Down      (onmousedown)
+// Mouse Out       (onmouseout)
+
+//works in body
+// key Press       (onkeypress)
+// Key Up          (onkeyup)
+// Load            (onload)
+// Unload          (onunload)
+// Resize          (onresize)
+// Scroll          (onscroll)
